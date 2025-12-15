@@ -2,7 +2,7 @@
 <br>
 
   <img src="https://i.imgur.com/4jmjD8o.png" alt="logo" width="400" height="auto" />
-  <h1>Python 3 Experiments</h1>
+  <h1>Python3 Experiments</h1>
   
   <p>
     Lab works, small code snippets, and other handy stuff to learn python and do stuff in python all organized in jupiter notebooks.
