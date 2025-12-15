@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Checkout Code') {
       steps {
-        git(url: 'https://github.com/kiltonmithun/python3_labs', branch: 'main')
+        git(url: 'https://github.com/kiltonmithun/python3_labs', branch: 'main', credentialsId: 'github')
       }
     }
 
